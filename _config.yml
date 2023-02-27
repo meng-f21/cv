@@ -1,14 +1,14 @@
 # Site settings
 title: Meng Fei
-baseurl: "/ap"
+baseurl: "/cv"
 url: "https://meng-f21.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
+  name: Meng Fei
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  email: meng-f21@mails.tsinghua.edu.cn
   selfie: assets/img/profile.png
 
 # social
