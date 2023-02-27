@@ -1,7 +1,7 @@
 # Site settings
 title: Meng Fei
 baseurl: "/cv"
-url: "https://meng-f21.github.io"
+url: "https://meng-f21.github.io/cv"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
@@ -19,11 +19,11 @@ social:
   dribbble:
   facebook: Test
   flickr:
-  github: kssim
+  github: meng-f21
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin:
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: 
   vimeo:
   wordpress:
   youtube:
